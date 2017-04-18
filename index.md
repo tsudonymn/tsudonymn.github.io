@@ -4,6 +4,6 @@
 
 ### In the Shire of Parallel.ForEach
 
-> Bio\
- Dev/Architect/Analyst/Coach/DevOp\
+> Bio\  
+ Dev/Architect/Analyst/Coach/DevOp\  
  .Net/Python/JS/etc
