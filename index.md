@@ -1,5 +1,3 @@
-# **Tsudonymn's Dev Jounral 201_**
-
 ## Bio
 > Dev/Architect/Analyst/Coach/DevOp  
 > .Net/Python/JS/Java/etc  
