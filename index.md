@@ -1,6 +1,7 @@
 ## Bio
 > Dev/Architect/Analyst/Coach/DevOp  
 > .Net/Python/JS/Java/etc
+
 ### Things I've done:  
 **Game Development**
 * [PS Games I was part of making](https://goo.gl/IJlAUm)  
