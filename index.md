@@ -8,6 +8,11 @@
 * [A game in which they misspelled my name in the credits](https://goo.gl/rS1szx)  
 
 **Speaking Engagements**
+* Agile and Beyond 2018
+   * [Building a well-oiled delivery machine:
+How to take your team from zero to awesome using collaboration
+](http://sched.co/Dxs1)
+   * [Join the Mob! Adventures in Mob Programming!](http://sched.co/DxsL)
 * Agile 2011
     * [Anatomy and Physiology of an Agile Transition](https://goo.gl/NdnFy0)
 * Agile and Beyond 2011
@@ -20,3 +25,7 @@
 
 **Stuff I've Written**
 * [ACM Publication List](https://goo.gl/y3kYxt)
+
+# Contact Info:
+* [@tsudonymn on Twitter](https://twitter.com/tsudonymn)
+* [LinkedIn](https://www.linkedin.com/in/chris-o-connor-2b4270/)
