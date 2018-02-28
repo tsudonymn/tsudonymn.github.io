@@ -2,8 +2,9 @@
 > Dev/Architect/Analyst/Coach/DevOp  
 > .Net/Python/JS/Java/etc
 
-## Contact Info:
+### Contact Info:
 > [@tsudonymn on Twitter](https://twitter.com/tsudonymn)
+
 > [LinkedIn](https://www.linkedin.com/in/chris-o-connor-2b4270/)
 
 ## Things I've done:  
