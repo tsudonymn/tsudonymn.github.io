@@ -2,7 +2,11 @@
 > Dev/Architect/Analyst/Coach/DevOp  
 > .Net/Python/JS/Java/etc
 
-### Things I've done:  
+## Contact Info:
+* [@tsudonymn on Twitter](https://twitter.com/tsudonymn)
+* [LinkedIn](https://www.linkedin.com/in/chris-o-connor-2b4270/)
+
+## Things I've done:  
 **Game Development**
 * [PS Games I was part of making](https://goo.gl/IJlAUm)  
 * [A game in which they misspelled my name in the credits](https://goo.gl/rS1szx)  
@@ -25,7 +29,3 @@ How to take your team from zero to awesome using collaboration
 
 **Stuff I've Written**
 * [ACM Publication List](https://goo.gl/y3kYxt)
-
-# Contact Info:
-* [@tsudonymn on Twitter](https://twitter.com/tsudonymn)
-* [LinkedIn](https://www.linkedin.com/in/chris-o-connor-2b4270/)
