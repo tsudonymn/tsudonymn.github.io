@@ -1,6 +1,11 @@
 ## Bio
+
 > Dev/Architect/Analyst/Coach/DevOp  
-> .Net/Python/JS/Java/etc
+> .Net/Python/JS/Java/etc   
+
+## What I Do
+
+> Assist your team with continuous improvement on topics such as Product and Customer focused teams, Developer Craftsmanship, Process (Agile/Lean/Kanban)   
 
 ### Contact Info:
 > [@tsudonymn on Twitter](https://twitter.com/tsudonymn)   
