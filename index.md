@@ -11,7 +11,7 @@
 > [@tsudonymn on Twitter](https://twitter.com/tsudonymn)   
 > [LinkedIn](https://www.linkedin.com/in/chris-o-connor-2b4270/)
 
-## Things I've done/are doing:  
+## Things I've done/I am doing:  
 **Game Development**
 * [PS Games I was part of making](https://goo.gl/IJlAUm)  
 * [A game in which they misspelled my name in the credits](https://goo.gl/rS1szx)  
