@@ -17,6 +17,10 @@
 * [A game in which they misspelled my name in the credits](https://goo.gl/rS1szx)  
 
 **Speaking Engagements**
+* Agile and Beyond 2020
+   * Building a well oiled delivery machine: Problem solving edition
+* Ford Motor Company
+   * Trunk Based Devlopment
 * Agile and Beyond 2018
    * [Building a well-oiled delivery machine:
 How to take your team from zero to awesome using collaboration
