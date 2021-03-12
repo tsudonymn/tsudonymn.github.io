@@ -1,5 +1,5 @@
 ## Bio
-> TL/DR:
+#### TL/DR:
 > Dev/Speaker/Analyst/Coach/Architect/DevOps   
 > Python/Kotlin/.Net/Elm/And many others   
 > 30+ years experience with software development   
