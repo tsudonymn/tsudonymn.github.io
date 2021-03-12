@@ -34,4 +34,4 @@ A big step up from the box/old worn out chair I started out on. It's no Aeron ch
 - Acer 21" 1080p
 
 
-Full disclosure links may contain affiliate information that may benefit me and I received no compensation for any content all opinions are my own
+Full disclosure links may contain affiliate information that may benefit me. I received no compensation for any content. All opinions are my own.
