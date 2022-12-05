@@ -1,11 +1,12 @@
-## My WFH setup:
+## My WFH setup (last updated 12/5/2020):
 
-### Headsets:
-- [Anker Soundcore Q20 ANC Bluetooth Over The Ear Closed Headphones](https://amzn.to/30R1wKV)   
-I got these on sale for a long flight and have loved them. 
+### Headphones:
+- [HIFIMAN HE-400i](https://amzn.to/3iItBQo) My newest headset. Ordered 2 other sets the [Monolith M565C](https://amzn.to/3un8JRD) and [Jabra 85h Wireless](https://amzn.to/3iIpSCM) and was luckily enough to find a set of the HIFI Man on Ebay. They were about a quarter of the new cost and refurbed them myself for about $20 in parts. They sound very nice with balanced highs and mids along with decent base. I tend to prefer open ear headphones and also keep a set of wireless ANC as well for when I need to blcok out the world around me. You can check out my selection for those below.
 
 - [Anker Soundcore Q30 ANC Bluetooth Over The Ear Closed Headphones](https://amzn.to/3ezXE90)   
-Since I loved the Q20's so much when the Q30's went on sale I had to see how much better the next step up was. They are larger and thus slightly heavier and yet totally worth it. Better noise cancelling and sound isolation. The transparent mode is useful for a quick chat with someone without having to remove the headset. The downside is transparent mode also amplifies some strange noises like the refrigerator or fans. 
+Since I loved the Q20's so much when the Q30's went on sale I had to see how much better the next step up was. They are larger and thus slightly heavier and yet totally worth it. Better noise cancelling and sound isolation. The transparent mode is useful for a quick chat with someone without having to remove the headset. The downside is transparent mode also amplifies some strange noises like the refrigerator or fans. Update 12/5/2022 Still loving these. I use them around my home office and often take them with me when I venture out. The are inexpensive enough that I don't have to worry like I would with most of the rest of my sets. Here's what [rtings.com](https://www.rtings.com/headphones/reviews/anker/soundcore-life-q30-wireless) had to say about them for reference.
+
+- [Sony WH-1000XM4](https://amzn.to/3upq8cf) Decided to invest in some upgrades to the WFH setup and while I love the Q30s, especially given the price performance proposition they bring to the table, I also was interested what some next level ones might sound and feel like. So for starters I kept them and they are my goto wireless ANC (active noise cancellation) headphones now. Would I say they are worth the price difference between the Q30s...? Well yes and no. I think it'd come down to a lot of personal preference. They do sound nicer. Not quite as bright which is a good thing and a little more depth of sound. I'd say the ANC is about the same and maybe a little better in some cases. So if you get a chance and see a good sale I'd say they are worth checking out and if you are cost conscious I would not feel bad at all with a pair of the Q30s
 
 ### Mics:
 - [USB Conference Microphone, CMKTeck Model CM001](https://amzn.to/2PPR2Je)   
