@@ -27,5 +27,6 @@ Not A2 and some other nearby options:
 
 
 Outdoor Activities:
-- [Parks](https://www.a2gov.org/departments/Parks-Recreation/parks-places/Pages/default.aspx)
-- 
+| **Website** | **Description** |
+|-------------|-----------------|
+| [Parks](https://www.a2gov.org/departments/Parks-Recreation/parks-places/Pages/default.aspx) | Ann Arbor has a ton of great parks. THere's even help to decide which one | 
