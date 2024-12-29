@@ -13,6 +13,10 @@ Indoor options include:
 | [Champion Gymnastics](https://www.championgymnastics.com/) | Offers classes, open gym time, birthday parties, and ninja courses. |
 | [We Rock the Spectrum Ann Arbor](https://werockthespectrum.com/locations/ann-arbor/) | An indoor play space for children of all ages and abilities. |
 | [Briarwood Mall](https://www.briarwoodmall.com/) | A play area located inside Briarwood Mall for kids to enjoy while parents shop. |
+| [Breakout Escape Rooms Ann Arbor](https://roombreakout.com/ann-arbor-mi/) | Offers immersive themed adventures with costumed hosts, perfect for birthday parties, team-building, and fun nights out. |
+| [Clueless Escape Rooms](https://a2clue.com/) | Features thrilling escape room scenarios like "The Haunted Mansion" and "Lost in Space," great for team-building and birthday parties. |
+| [Decode Ann Arbor](https://www.decodedetroit.com/ann-arbor/) | Known for its award-winning escape rooms, including "Around The World In 80 Days" and "Trouble In Paradise," with private adventures for all ages. |
+
 
 Not A2 and some other nearby options:
 | **Website** | **Description** |
