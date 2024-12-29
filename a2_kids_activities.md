@@ -1,10 +1,9 @@
 Indoor options include:
-- [Ann Arbor Hands on Museum](https://discoverscienceandnature.org/)
-- [242](https://242community.com/locations/ann-arbor/) - a church that on non weekend days has an indoor play area
-- [University of Michigan Natural History Museum](https://lsa.umich.edu/ummnh/)
-
 | **Name** | **Description** | **Website** |
 |----------|-----------------|-------------|
+| Ann Arbor Hands-On Museum | A museum with interactive exhibits promoting science literacy. | [Ann Arbor Hands-On Museum](https://discoverscienceandnature.org/) |
+| 242 Community Church | A church with an indoor play area open on non-weekend days. | [242 Community Church](https://242community.com/) |
+| University of Michigan Natural History Museum | A museum showcasing natural history exhibits and research. | [University of Michigan Museum of Natural History](https://lsa.umich.edu/ummnh/) |
 | Matthias Botanical Gardens | A beautiful 300-acre garden with various outdoor displays and nature trails. | [Matthaei Botanical Gardens](https://mbgna.umich.edu/) |
 | Pinball Pete's | A fun arcade with a variety of arcade games, pinball machines, and more. | [Pinball Pete's](https://www.pinballpetes.org/) |
 | BIG - Arcade, Go Karts, Axes, Bowling | A premier entertainment destination with arcade games, go-karts, axe throwing, and bowling. | [Best In Games](https://bestingames.com/) |
