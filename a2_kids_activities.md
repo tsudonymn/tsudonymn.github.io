@@ -1,4 +1,5 @@
 Indoor options include:
+
 | **Website** | **Description** |
 |-------------|-----------------|
 | [Ann Arbor Hands-On Museum](https://discoverscienceandnature.org/) | A museum with interactive exhibits promoting science literacy. |
@@ -19,6 +20,7 @@ Indoor options include:
 
 
 Not A2 and some other nearby options:
+
 | **Website** | **Description** |
 |-------------|-----------------|
 | [Chelsea Treehouse](https://www.chelseatreehouse.com/) | An indoor playground and cafe with a giant treehouse and separate areas for infants and toddlers. |
@@ -27,6 +29,7 @@ Not A2 and some other nearby options:
 
 
 Outdoor Activities:
+
 | **Website** | **Description** |
 |-------------|-----------------|
 | [Parks](https://www.a2gov.org/departments/Parks-Recreation/parks-places/Pages/default.aspx) | Ann Arbor has a ton of great parks. THere's even help to decide which one | 
